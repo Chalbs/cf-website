@@ -1,0 +1,42 @@
+/*Custom CSS for website stlying*/
+
+.intro {
+  height: 600px;
+}
+
+.testimonial {
+  padding-top: 25px;
+  padding-bottom: 15px;
+
+}
+
+.offering {
+  list-style: none;
+  padding: 0px;
+  margin-top: 25px;
+  font-size: 18px;
+  color: #fff;
+}
+
+#about-us {
+  background-color: #333;
+  margin: 50px 0 75px 0;
+}
+
+.memberships {
+  margin-top: 50px;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+p {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+.main-title {
+  text-transform: uppercase;
+}
